@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="" xml:lang="">
-  <head>
-    <title>ICESat-2</title>
+<title>ICESat-2</title>
     <meta charset="utf-8" />
     <meta name="author" content="Hannah Schuller" />
     <meta name="date" content="2024-01-24" />
