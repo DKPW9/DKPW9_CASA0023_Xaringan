@@ -141,12 +141,12 @@ knitr::include_graphics("plane.png")
 ## Reflections (2): Future applications of ICESat-2 data
 Two potential opportunities for future applications of ICESat-2 data stood out to me across the literature I consulted, the details of which are below:
 
-1. Novel study of sea-ice interactions
+Novel study of sea-ice interactions
 - Hovant et al.'s research outlined the potential for this
 - Their work displays clear potential to define the marginal ice zone mechanistically which would be really interesting
 - Given the impossibility of measuring this in-situ and the dearth of past study using remote sensing, this represents a research gap
 
-2. Estimating biomass in places lacking GEDI coverage
+Estimating biomass in places lacking GEDI coverage
 - Sothe et al.'s paper suggested that ICESat-2 demonstrated enormous potential for mapping forest canopy height where GEDI doesn’t record measurements
 - Further research expanding on this would be addressing a significant data gap
 - This could represent a valuable opportunity to better constrain global carbon stores/stocks
